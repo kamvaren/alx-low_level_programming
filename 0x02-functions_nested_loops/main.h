@@ -20,6 +20,8 @@ void print_sum_of_multiples(void); // Task 13
 void print_first_50_fibonacci(void); // Task 14
 void print_even_valued_fibonacci(void); // Task 15
 void print_first_98_fibonacci(void); // Task 16
+/* New function prototype */
+int print_last_digit(int n);
 
 #endif /* MAIN_H */
 
