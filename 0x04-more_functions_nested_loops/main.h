@@ -38,5 +38,12 @@ void print_triangle(int size);
 /* Task 10 */
 void print_fizz_buzz(void);
 
+/* Tasks 11 and 12 */
+int largest_prime_factor(void);
+void print_number(int n);
+
+
+
+
 #endif /* MAIN_H */
 
